@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/derik83/flutter_web_view" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://badgeonline.visualstudio.com/_git/Badgeonline" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
